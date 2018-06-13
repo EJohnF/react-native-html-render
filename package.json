@@ -24,6 +24,7 @@
   "devDependencies": {
     "chai": "^3.0.0",
     "istanbul": "^0.3.17",
-    "mocha": "^2.2.5"
+    "mocha": "^2.2.5",
+    "create-react-class": "^15.6.3"
   }
 }
